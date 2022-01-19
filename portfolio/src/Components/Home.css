@@ -1,0 +1,29 @@
+/* .Name{
+    margin-left: 25px;
+} */
+.Home{
+    display: flex;
+    justify-content: center;
+    align-items: left;
+    color: white;
+    font-family: 'Roboto Slab', serif;
+}
+.picture{
+    display: block;
+    height: 400px;
+    width: 600px;
+    border-radius: 50%;
+}
+.content{
+    margin-top: 5%;
+}
+
+.icons{
+    margin-left: 300px;
+}
+
+.button{
+    height: 50px;
+    width: 200px;
+    border-radius: 15%;
+}

@@ -1,0 +1,19 @@
+.about{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: 'Roboto Slab', serif;
+}
+.content2{
+    margin: 15%;
+    margin-top: 10%;
+    margin-left: 5%;
+}
+
+.cloud{
+    margin-left: 10%;
+    height: 300px;
+    width: 300px;
+}
+

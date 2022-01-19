@@ -1,0 +1,33 @@
+.contact{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: 'Roboto Slab', serif;
+    margin-right: 10%;
+}
+
+.contact-form{
+    margin-top: 5%;
+    margin-left: -5%;
+} 
+
+.form-group{
+    margin: 20%;
+    margin-left: 0%;
+    margin-top: 0%;
+}
+.heading{
+    margin: 20%;
+    margin-left: 0%;
+    margin-bottom: 0%;
+}
+
+.form-control{
+    width: 175%;
+}
+.phone{
+    width: 20%;
+    height: 20%;
+    margin-right: 10%;
+}
