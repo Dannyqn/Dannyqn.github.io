@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Dannyqn.github.io/static/css/main.5e53a721.css",
-    "main.js": "/Dannyqn.github.io/static/js/main.a763edf3.js",
-    "static/js/787.86e70ff7.chunk.js": "/Dannyqn.github.io/static/js/787.86e70ff7.chunk.js",
-    "static/media/picture.jpg": "/Dannyqn.github.io/static/media/picture.8fcc3908c3af3948aa78.jpg",
-    "static/media/cloud.jpg": "/Dannyqn.github.io/static/media/cloud.b1353699a9737a129b66.jpg",
-    "index.html": "/Dannyqn.github.io/index.html",
-    "main.5e53a721.css.map": "/Dannyqn.github.io/static/css/main.5e53a721.css.map",
-    "main.a763edf3.js.map": "/Dannyqn.github.io/static/js/main.a763edf3.js.map",
-    "787.86e70ff7.chunk.js.map": "/Dannyqn.github.io/static/js/787.86e70ff7.chunk.js.map"
+    "main.css": "/static/css/main.5e53a721.css",
+    "main.js": "/static/js/main.064b2c25.js",
+    "static/js/787.86e70ff7.chunk.js": "/static/js/787.86e70ff7.chunk.js",
+    "static/media/picture.jpg": "/static/media/picture.8fcc3908c3af3948aa78.jpg",
+    "static/media/cloud.jpg": "/static/media/cloud.b1353699a9737a129b66.jpg",
+    "index.html": "/index.html",
+    "main.5e53a721.css.map": "/static/css/main.5e53a721.css.map",
+    "main.064b2c25.js.map": "/static/js/main.064b2c25.js.map",
+    "787.86e70ff7.chunk.js.map": "/static/js/787.86e70ff7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5e53a721.css",
-    "static/js/main.a763edf3.js"
+    "static/js/main.064b2c25.js"
   ]
 }
